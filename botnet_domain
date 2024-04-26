@@ -1,9 +1,8 @@
 # Meris botnet 2024-04-25
 #taken form https://blog.mikrotik.com/security/meris-botnet.html
 
-# *.eeongous.com
-# *.leappoach.info
-# *.mythtime.xyz
+# *.eeongous.com *.leappoach.info  *.mythtime.xyz
+# ^.+(eeongous.com|leappoach.info|mythtime.xyz).*$
 
 0.0.0.0 1abcnews.xyz
 0.0.0.0 1awesome.net
