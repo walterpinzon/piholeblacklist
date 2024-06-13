@@ -14,7 +14,7 @@ Mulples source need ajust to load in Pihole.
 Para instalar el escript en RAW, script de descargay y scheduler para ejecución periodica.
 
 `
-{/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc" mode=https;/import file-name=colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;/file/remove/colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;}
+{/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc" mode=https;/import file-name=colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;/file/remove colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;}
 `
 
 #
