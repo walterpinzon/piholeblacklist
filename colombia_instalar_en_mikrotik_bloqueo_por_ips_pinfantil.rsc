@@ -6,14 +6,14 @@
     :local dstAddress [/ip firewall raw get $rule dst-address-list]
     :if ($dstAddress=$ipList) do={
         :set ruleExists true
-        :put "La regla para bloquear tráfico hacia IPs_Mintic ya existe."
+        :put "La regla para bloquear trafico hacia IPs_Mintic ya existe."
         :break
     }
 }
 
 # Si la regla no existe, crear una nueva regla para bloquear el tráfico hacia IPs_Mintic
 :if ($ruleExists=false) do={
-    :local newRule [ /ip/firewall/raw/add action=drop chain=prerouting dst-address-list=IPs_Mintic in-interface-list=!WAN comment="Bloquear tráfico hacia IPs_Mintic" place-before=0 ]
+    :local newRule [ /ip/firewall/raw/add action=drop chain=prerouting dst-address-list=IPs_Mintic in-interface-list=!WAN comment="SIMA: Bloquear trafico hacia IPs_Mintic" place-before=0 ]
     :put "Se ha creado una nueva regla para bloquear trafico hacia IPs_Mintic."
 }
 
