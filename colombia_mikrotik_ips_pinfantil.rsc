@@ -1,7 +1,9 @@
 # Descargar el archivo raw desde GitHub
 #/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_mikrotik_ips_pinfantil.rsc" mode=https
 #Ejecutar el archivo rsc descargado
-#/import file-name=archivo.rsc
+#/import file-name=colombia_mikrotik_ips_pinfantil.rsc
+#Prueba en una sola linea
+#{/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_mikrotik_ips_pinfantil.rsc" mode=https;/import file-name=colombia_mikrotik_ips_pinfantil.rsc;}
 #
 #
 /ip/firewall/address-list remove [find where list=IPs_Mintic]
