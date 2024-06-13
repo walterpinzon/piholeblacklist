@@ -18,4 +18,5 @@
 }
 
 {/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_mikrotik_ips_pinfantil.rsc" mode=https;/import file-name=colombia_mikrotik_ips_pinfantil.rsc;}
-
+{/system/script/add dont-require-permissions=no name=colombia_mikrotik_ips_pinfantil owner=winner policy=ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon source="{/tool fetch url=\"https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_mikrotik_ips_pinfantil.rsc\" mode=https;/import file-name=colombia_mikrotik_ips_pinfantil.rsc;}";}
+{/system/scheduler/add interval=1d name=colombia_mikrotik_ips_pinfantil on-event=colombia_mikrotik_ips_pinfantil policy=ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon start-date=2024-06-12 start-time=05:30:00;}
