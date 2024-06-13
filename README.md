@@ -11,8 +11,9 @@ Mulples source need ajust to load in Pihole.
 -  LISTADO iperf servers allow only on speed test
 
 # Instalar Script Bloqueo de IPs que no se puede bloquear por DNS
-{:local a [/system script get get_secrets source]; execute script=$a file=secrets_buho.txt}
-#Prueba en una sola linea
+Para instalar el escript en RAW, script de descargay y scheduler para ejecución periodica.
+`
 #{/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc" mode=https;/import file-name=colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;/file/remove/colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;}
+`
 
 #
