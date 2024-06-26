@@ -2,16 +2,19 @@
 
 
 #Rad:1-2021-120908
-0.0.0.0 latinosiptv.com
-0.0.0.0 redcoliptv.com
+latinosiptv.com
+www.latinosiptv.com
+latinosiptv.comlatinosiptv.com
+
 
 #Rad: 1-2021-50499 Auto 4 del 7 de septiembre de 2021
-0.0.0.0 iprealtv.net
-0.0.0.0 tv.iprealtv.net
+iprealtv.net
+www.iprealtv.net
+tv.iprealtv.net
   
 # RAD 1-2022-69923. No aplicable por dns. y ya fue bloqueada.
 # https://play.google.com/store/apps/details?id=somoswin.tv
 
 # Rad: 1-2024-25281
-0.0.0.0 www.tele-latino.com
-0.0.0.0 tele-latino.com
+www.tele-latino.com
+tele-latino.com
