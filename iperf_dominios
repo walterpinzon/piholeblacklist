@@ -1,0 +1,24 @@
+#An user can sature network using iperf. May you want denny access and allow access only on speedtest.
+0.0.0.0 iperf3.moji.fr
+0.0.0.0 iperf.par2.as49434.net
+0.0.0.0 paris.testdebit.info
+0.0.0.0 lille.testdebit.info
+0.0.0.0 lyon.testdebit.info
+0.0.0.0 aix-marseille.testdebit.info
+0.0.0.0 bordeaux.testdebit.info
+0.0.0.0 ping.online.net
+0.0.0.0 ping6.online.net
+0.0.0.0 ping-90ms.online.net
+0.0.0.0 ping6-90ms.online.net
+0.0.0.0 vspeedtest.serverius.net
+0.0.0.0 nl.iperf.014.fr
+0.0.0.0 ch.iperf.014.fr
+0.0.0.0 iperf.eenet.ee
+0.0.0.0 iperf.astra.in.ua
+0.0.0.0 iperf.volia.net
+0.0.0.0 speedtest.uztelecom.uz
+0.0.0.0 iperf.it-north.net
+0.0.0.0 iperf.biznetnetworks.com
+0.0.0.0 speedtest-iperf-akl.vetta.online
+0.0.0.0 iperf.scottlinux.com 	USA
+0.0.0.0 iperf.he.net
