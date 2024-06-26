@@ -17,4 +17,10 @@ Para instalar el escript en RAW, script de descargay y scheduler para ejecución
 {/tool fetch url="https://raw.githubusercontent.com/walterpinzon/piholeblacklist/main/colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc" mode=https;/import file-name=colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;/file/remove colombia_instalar_en_mikrotik_bloqueo_por_ips_pinfantil.rsc;}
 `
 
-#
+# DESCARGA PROCESADO Y CARGA A GITHUB DEL LISTADO ACTUALIZADO
+
+Primero clonanos el repositorio de listados.
+
+`
+git clone https://github.com/walterpinzon/piholeblacklist.git github/
+`
