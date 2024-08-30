@@ -281,9 +281,9 @@ zone "1x2fogadas.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "1x2gaming.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1x2masters.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1x2.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "1x2shop.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "1x2shop.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1x2stoixima.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "1xbahisihbc.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "1xbahisihbc.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1xbet-0083165.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1xbet062567.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1-xbet0860301.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -517,7 +517,7 @@ zone "1xodds.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "1xofj.world" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1x.partners" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1xslot-035005.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "1xslot1.xyz " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "1xslot1.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1xslot2.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1xslot-497923.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "1xslot58096.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -652,11 +652,11 @@ zone "22win88.com" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "22win-bet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "231717.app" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "23ace.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "23luckybirdcasino.com              " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "23luckybirdcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "247apuestas.mx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "247bet.me" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "247bet.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "247bets.co.za " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "247bets.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "247bettime.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "247cassinolive.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "247pokies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -846,7 +846,7 @@ zone "747.live" { type master; file "/etc/bind/zones/master/blockeddomains.db"; 
 zone "747live.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "747livecasino.com.ph" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "747live.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "76artemisbet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "76artemisbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "77777games.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777avis.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777bay.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -865,7 +865,7 @@ zone "777dragoncasino.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "777.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777extraslot.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777free-slots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "777lounge.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "777lounge.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777mobile.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777onlineblackjack.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "777parley.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1029,7 +1029,7 @@ zone "actiononlinecasino.ca" { type master; file "/etc/bind/zones/master/blocked
 zone "adabet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "adamevecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "adeapuestas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "adjarabet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "adjarabet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "adlercasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "adlerslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "administracionpublicaycontrol.com.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1077,7 +1077,7 @@ zone "agogojuego.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "agogojuego.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "agogowin.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ahabetplay.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ahacasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ahacasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ahtigames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "aica-italia.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ailerehber.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1088,7 +1088,7 @@ zone "ajedrezelsauzal.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "ajugar.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "akcebet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "akijuego.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "akijuego.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "akijuego.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "aladdinsgoldcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "aladdinslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "alanbrazilcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1113,7 +1113,7 @@ zone "allbonuscode.info" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "allbonuscodes.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "all-bonus-codes.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allbookmakers.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "allbritishcasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "allbritishcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allcanadacasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allcashbackcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allcasinobonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1126,7 +1126,7 @@ zone "allcasinos.in" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "allcasinosite.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "alldaypoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "allfreechips.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "allfreechips.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "all-freespins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allfreespins.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allgamblinglist.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1168,7 +1168,7 @@ zone "allslotscasino.ca" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "allslotscasino.com.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allslotscasino-no-deposit-bonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allslotscasinopokies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "allslots-casino-review.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "allslots-casino-review.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allslots.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allspins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "allsport365.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1216,7 +1216,7 @@ zone "americancasinoguide.com" { type master; file "/etc/bind/zones/master/block
 zone "americancasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "americancasinos.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "americangambler.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "americasbookie.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "americasbookie.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "americascardroom.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "americas-got-talent-winners.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "americasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1295,7 +1295,7 @@ zone "aposta.legal" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "apostalegal.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apostalegal.pt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apostalo.com.ar" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "apostamax.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "apostamax.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apostamina.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apostamos.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apostamos.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1470,7 +1470,7 @@ zone "apuestasyresultados.com" { type master; file "/etc/bind/zones/master/block
 zone "apuestatotal.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apuesteenlinea.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apuestele.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "apuestele.com.ni " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "apuestele.com.ni" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apuestivas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apuestivas.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "apuesto.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1555,7 +1555,6 @@ zone "atlantida24.net" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "atlantis13.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "atlantisgoldcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "atlantisplay.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "atlantisplay.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "atlantiswins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "atlasonline.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "atletismogalego.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1579,7 +1578,7 @@ zone "au-slot4.com" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "auslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ausopen.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ausscasinosanalyzer.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "aussiebestcasinos.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "aussiebestcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "aussiebet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "aussiecasinohex.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "aussieonlinecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1683,7 +1682,7 @@ zone "backgammononline.fr" { type master; file "/etc/bind/zones/master/blockeddo
 zone "badenbaden.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "badmantipster.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahigo60.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bahisarena33.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bahisarena33.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahisbahsegel.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahiscasino414.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahisleri-1xbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1695,7 +1694,7 @@ zone "bahistanbul.icu" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "bahisu2.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahisyenisitesi2.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahrain-bonusesfinder.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bahsegel30.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bahsegel30.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahsegel371.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahsegel70.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bahsegelabi.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1719,7 +1718,7 @@ zone "balzaccasino.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "bamasportsbook.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "banachbrothers.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bandannie.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "banditmanchot.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "banditmanchot.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bangthebook.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "banidepoker.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bankika.co.ke" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1760,7 +1759,7 @@ zone "Battbet03.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "battbet04.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "battbet05.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "batuintan.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "baymavi165.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "baymavi165.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "baymavi198.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "baymavi426.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "baymavi427.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1820,7 +1819,7 @@ zone "bbr2bet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "bbr4bet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bbr555.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bbrb888.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bbrbet001.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bbrbet001.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bbrbet03.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bbrbet05.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bbrbet08.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1907,7 +1906,7 @@ zone "belliscasino.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "belliscasino.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bellyjacks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bemslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bemybet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bemybet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bengames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bengames.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "benin-bonusesfinder.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2192,7 +2191,7 @@ zone "bet91.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; 
 zone "bet91.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bet9.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bet9ja.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betabet88.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betabet88.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betadonis166.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betadonis.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betador.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2302,7 +2301,7 @@ zone "betdistrict.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "betdna.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betdod.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betdota2.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betdsi.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betdsi.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betdsi.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "beteasy.com.au" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betelli.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2534,7 +2533,7 @@ zone "betpal.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "betpanda1.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betpanda.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betparleys.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betpas238.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betpas238.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betpas264.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betpawa.bj" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betpawa.cd" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2628,7 +2627,7 @@ zone "betql.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; 
 zone "betraces.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betragaperras.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betraja.in" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betrally.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betrally.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrallyindia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrank.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrating.cz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2648,7 +2647,7 @@ zone "betroom24.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "betrophy.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betroyal.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrtr.me" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betru.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betru.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrug.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrugerfahrungen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betrugstest.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2711,7 +2710,7 @@ zone "betsonly.net" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "betspalace.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betspin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bets-pinup.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betsport247.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betsport247.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betsportnew.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betsportslive.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betspot.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2873,7 +2872,7 @@ zone "bettors.co.ke" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "bettors.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betturkey490.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bettwon.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bettwostar.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bettwostar.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bet-types.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betuk.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betunion24.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2897,7 +2896,7 @@ zone "betway.es" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "betway.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betway.lat" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betway.mx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "betway.ug " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "betway.ug" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betwego56.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "betwin-hu.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bet-winner13.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2962,7 +2961,7 @@ zone "bigbet247.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "bigbetworld.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bigbonusbets.com.au" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bigbonus.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bigbonus.it " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bigbonus.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bigboost.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bigfreebet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bighotcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3050,7 +3049,7 @@ zone "bingobonus.codes" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "bingobonusfinder.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bingobonusfinder.ec" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bingobonusfinder.in" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bingoboom.ru " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bingoboom.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bingocafe.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bingocalls.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bingocanada.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3157,13 +3156,13 @@ zone "bitcasino999.io" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "bitcasino.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcasino.cloud" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bitcasino.io " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bitcasino.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcasinorank.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcasinosite.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcasinos.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoinbookies.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoinbuster.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bitcoincasinoaffiliates.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bitcoincasinoaffiliates.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoincasino.best" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoincasino.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoincasinocodes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3193,7 +3192,7 @@ zone "bitcoinoddschecker.com" { type master; file "/etc/bind/zones/master/blocke
 zone "bitcoinpenguin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoinplay.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoinplay.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bitcoinrush.io " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bitcoinrush.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoinsportsbook.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoinsportsbooks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitcoin-viet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3255,7 +3254,7 @@ zone "bitwin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "bitwin.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bitzbee.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bizcasino.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bizimbahis1.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bizimbahis1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bizzocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bk1xbet.mobi" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bk8mya.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3333,7 +3332,7 @@ zone "blackjacksajt.se" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "blackjackschule.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackjacksimulator.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackjacksiteler.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "blackjacksiteleri.online " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "blackjacksiteleri.online" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackjacksites.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackjacksniper.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackjackspelregels.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3348,7 +3347,7 @@ zone "blackjackuzmani1.info" { type master; file "/etc/bind/zones/master/blocked
 zone "blacklioncasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blacklotuscasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackskies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "blacktype.bet " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "blacktype.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blightybingo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blitz.be" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blitzbonuscasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3459,7 +3458,7 @@ zone "bonuscodebets.it" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "bonus-code-canada.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bonuscodecasinos.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bonuscode.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bonuscode.guru " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bonuscode.guru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bonuscodeindia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bonuscodepoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bonus.codes" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3653,7 +3652,7 @@ zone "bronze-casino.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "bronzecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bronzecasino.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bronzecasino.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "brucebetting.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "brucebetting.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "brucepokies.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "brunocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "b-sensation77.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3781,7 +3780,7 @@ zone "cadoola.com" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "caesarsbingo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "caesarscasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "caesarsgames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "caesarspalaceonline.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "caesarspalaceonline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cafecasino.lv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cafeinbet.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "caibo.fun" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3977,7 +3976,7 @@ zone "casino24.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "casino24.lv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino24.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino2k.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casino2.netentslotoyna.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casino2.netentslotoyna.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino32.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino33.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino33co.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3996,7 +3995,7 @@ zone "casino4u.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "casino4u.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino4-x.cyou" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino4you.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casino545.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casino545.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino588.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino6000.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino666.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4028,7 +4027,7 @@ zone "casino-action.co.uk" { type master; file "/etc/bind/zones/master/blockeddo
 zone "casinoadrenaline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoadria.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoadvisers.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoadvisor.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoadvisor.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-advisor.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoaffiliateshare.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoaffprograms.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4062,8 +4061,8 @@ zone "casinoarena.sk" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "casinoarena.ug" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoarg.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoargentino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casino-astral.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoastral.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casino-astral.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoatlanticcity.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoatral.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4135,7 +4134,7 @@ zone "casinoble.nu" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "casinoble.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoble.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoble.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoblogg.nu " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoblogg.nu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoblog.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinobloke.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoblusky.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4231,7 +4230,7 @@ zone "casinobull.io" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "casinoburst.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.buzz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinobuzz.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casino.bwin.be " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casino.bwin.be" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.bwin.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinocabbie.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4261,7 +4260,7 @@ zone "casinochap.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "casino-charts.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinochase.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinochecking.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinochecklist.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinochecklist.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinochiefs.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinochile10.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinochile.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4322,7 +4321,7 @@ zone "casinodailybonus.com" { type master; file "/etc/bind/zones/master/blockedd
 zone "casinodanmark.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinodanmark.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinodans.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinodave.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinodave.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinodavos.ch" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinodays2.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinodays.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4366,7 +4365,7 @@ zone "casinoeesti.ee" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "casinoelevate.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoemerald.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoempire.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoenchile.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoenchile.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoenchile.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoenchile.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoencolombia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4414,7 +4413,7 @@ zone "casino.es" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "casinoeslot.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoespana.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoespanol.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoestrella100.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoestrella100.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoestrella1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoestrella2019.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoestrella2020.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4430,7 +4429,7 @@ zone "casinoestrella.online" { type master; file "/etc/bind/zones/master/blocked
 zone "casinoestrellapro.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-estrellas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoestrellawin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casino.eu " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casino.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoeuro42.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoeuro44.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoeuro.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4554,8 +4553,8 @@ zone "casinoguardian.co.uk" { type master; file "/etc/bind/zones/master/blockedd
 zone "casino.guide" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoguide119.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-guide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoguide.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoguide.co.uk " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoguide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoguide.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoguide.cz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoguide.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-guide.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4572,7 +4571,7 @@ zone "casinoguru.dk" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "casinoguru-es.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinogurues.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoguru.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoguru.lt " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoguru.lt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinogurureview.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinogurus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinogurus.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4768,7 +4767,7 @@ zone "casinomartini.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "casino-masino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinomasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinomaster.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinomasters.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinomasters.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinomatch.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinomax.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinomaxi110.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4980,7 +4979,7 @@ zone "casinoonline.com.ve" { type master; file "/etc/bind/zones/master/blockeddo
 zone "casinoonline.co.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonline.co.nz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonline.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoonline.de " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoonline.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonlinedeperu.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonline.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonlineenchile.cl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5019,7 +5018,7 @@ zone "casino-online.pe" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "casinoonlineperu.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonlineperu.com.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonlineperu.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoonlineperu.pe " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoonlineperu.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonlineportugal.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoonlineportugal.com.pt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-online-portugal.pt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5071,7 +5070,7 @@ zone "casino-pelit.net" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "casinopenge.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.peoples.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoperalada.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoperu.pe " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoperu.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinopetsi.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinophonebill.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinopick.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5145,7 +5144,7 @@ zone "casino.redkings.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "casino.redspins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreg.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinorehberi-888.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinorella.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinorella.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-report.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreports.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-review.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5153,7 +5152,7 @@ zone "casino-review.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "casino-reviewer.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreviewers.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreview-pt.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoreviews.asia " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoreviews.asia" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreviewscanada.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreviews.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoreviews.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5241,7 +5240,7 @@ zone "casinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "casinos.com.ar" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinos.com.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinos.com.ec" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinos.com.es " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinos.com.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinos.community" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoscompared.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinos.com.ve" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5384,7 +5383,7 @@ zone "casinoslam.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "casinos-legales.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoslists.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoslord.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoslot41.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoslot41.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoslot42.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.slotfruity.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoslotgames.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5419,7 +5418,7 @@ zone "casinosnobrasil.com.br" { type master; file "/etc/bind/zones/master/blocke
 zone "casinosnotblockedbygamestop.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosnotongamstop.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosnotongamstop.me" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinosnotongamstop.online " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinosnotongamstop.online" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosnotongamstop.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosnow.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosochi.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5456,7 +5455,7 @@ zone "casinos-online.org" { type master; file "/etc/bind/zones/master/blockeddom
 zone "casinos-online.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosonline.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosonlineperu.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinosonlineperu.pe " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinosonlineperu.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosonlinereal.money" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosonlinerealmoney.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinosonlinereview.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5617,7 +5616,7 @@ zone "casinotopiccs.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "casinotop.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinotoplist.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinotoplists.bg" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinotoplists.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinotoplists.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinotoplists.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinotopp10.nu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinotopplistan.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5634,7 +5633,7 @@ zone "casinotrollet.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "casinotropez.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-tructuyen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinotrumman.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinotv.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinotv.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.ua" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino.uk.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinouk.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5731,7 +5730,7 @@ zone "casinowizard.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "casinowizard.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-wonder.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinowow.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casino-x510.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casino-x510.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-x674.win" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-x880.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casino-x.codes" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5743,7 +5742,7 @@ zone "casino.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "casino-yajuego.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoyes.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoyetis.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoza.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoza.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoz.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoz.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinozca.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5774,7 +5773,7 @@ zone "casino-zonder-registratie.nl" { type master; file "/etc/bind/zones/master/
 zone "casino.zone" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoz-online.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinozonline.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "casinoz.pro " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "casinoz.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinoz.review" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinozru.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "casinozru.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5881,7 +5880,7 @@ zone "cendanabetplay.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "centroapuesta.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "centsports.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cepbahis2019.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "cepbahissitesi.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "cepbahissitesi.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cepmax.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ceskacasina.cz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ceskecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6031,7 +6030,7 @@ zone "codigo-bono-promocional.es" { type master; file "/etc/bind/zones/master/bl
 zone "codigobonusargentina.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "codigobonuschile.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "codigobonuspromocional.mx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "codigodeapuesta.es " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "codigodeapuesta.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "codigo-de-bono.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "codigo-de-bonus-bet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "codigodelbonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6048,7 +6047,7 @@ zone "codpromotional.net" { type master; file "/etc/bind/zones/master/blockeddom
 zone "cogamblers.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "coganar9.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "coin178.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "coinbet24.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "coinbet24.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "coinbetadvisor.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "coinbets777.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "coinbetting.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6087,7 +6086,7 @@ zone "compararcasino.es" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "comparateur-paris-sportifs.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "comparatif-paris-sportifs.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "compare.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "compare-bet.fr " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "compare-bet.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "comparebuzz.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "comparecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "comparecasinosites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6180,7 +6179,7 @@ zone "cricketoptions.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "crickfree.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crictips.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crikeyslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "criptobet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "criptobet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crispygamer.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "criticasacasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "critiquejeu.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6197,7 +6196,7 @@ zone "crowneurope.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "crownplay4.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crra.cz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crr-slot.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "crushitcasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "crushitcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crushwins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cryptimi.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "crypto1xbit.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6318,7 +6317,7 @@ zone "daddygambler.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "dadosbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dafa888.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dafabet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "dafatiyu.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "dafatiyu.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dagensbastaspel.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dagogame.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dailyenhanced.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6421,8 +6420,8 @@ zone "dexterbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "dfbocai.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dffgames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dharamraz.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "dhnet.be " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "dia247.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "dhnet.be" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "dia247.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "diabet365.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "diaboliquegame.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "diainternetsegura.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6432,7 +6431,7 @@ zone "diamondclub-vip.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "diamondclubvip.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "diamondreels.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "diamondworldcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "diamontbet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "diamontbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dicadeaposta.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dicekings.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "die-besten-kasinoseiten.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6628,7 +6627,7 @@ zone "eestikasiinod.ee" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "eestikasiinod.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "eestionlinekasiinod.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "eeuromoon.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "efbet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "efbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "efbet.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "efesbahis73.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "efirbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6779,7 +6778,7 @@ zone "esports-bwin.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "esportsimpulse.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "esports.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "esportwetten.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "esportwetten.pro " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "esportwetten.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "espressomachineguide.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "es.reefclubcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "es.roxypalace.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6787,7 +6786,7 @@ zone "es.royale500.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "es.royalvegascasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "es.spinpalace.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "es-sportbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "estadosunidosdecasinos.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "estadosunidosdecasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "estafa.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "estafaonline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "estafaopiniones.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6801,7 +6800,7 @@ zone "es.winnings.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "es.wintingocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "etairies-stoiximatos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "eternalslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "etgfc.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "etgfc.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ethcasino.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "etheroll.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ethiopiabetting.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7074,7 +7073,7 @@ zone "flashscore24.co.za" { type master; file "/etc/bind/zones/master/blockeddom
 zone "flashscore.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "flashscore.bg" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "flashscore.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "flashscore.co.id  " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "flashscore.co.id" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "flashscore.co.ke" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "flashscore.com.au" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "flashscore.com.ng" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7163,7 +7162,7 @@ zone "fortunepalace.co.uk" { type master; file "/etc/bind/zones/master/blockeddo
 zone "fortunepanda.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fortuneroomcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "forumpolish.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "forvetbet70.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "forvetbet70.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "forvetbet787.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "forvetbet80.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "forvetbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7341,7 +7340,7 @@ zone "fruitycasinos.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "fruityking.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fruityslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fruityvegas.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "frumzi1.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "frumzi1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ftnbets.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "full10.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fullbet.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7352,7 +7351,7 @@ zone "fullplay.tk" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "fullretocasino.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fulltilt.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fulltiltpoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "fulltimebet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "fulltimebet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fullwin.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fullycasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fun505.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7408,7 +7407,7 @@ zone "gamba.com" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "gambeta10.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gambia-bonusesfinder.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gambla.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "gambl.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "gambl.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gamble1x2.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gambleboost.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gamble.buzz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7476,7 +7475,7 @@ zone "gambling.city" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "gamblingcity.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gamblingcity.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gambling-code.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "gambling-code.ro     " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "gambling-code.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gambling.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gamblingcomet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gamblingcraft.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7633,7 +7632,7 @@ zone "genesiscasino.es" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "genesisglobalcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "geniobet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gentingbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "gentingcasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "gentingcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gentingcasino.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "genybet.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "genzobet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7734,7 +7733,7 @@ zone "goatcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "gobahis11.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gobahis681.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gobahisguvenli1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "gobahisguvenli.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "gobahisguvenli.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "go-bet365.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gobet.ag" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gobet.com.au" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7842,7 +7841,7 @@ zone "goodluck.io" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "goodluckmate.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goodluckonlinea.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goodmancasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "goodplay.pe " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "goodplay.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goodsportsbooks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goodvibezcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goodwincasino11.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7851,7 +7850,7 @@ zone "goodwincasino6.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "goodwincasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goodwincasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goomax.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "goonersguide.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "goonersguide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goplay.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "goprocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gorabet80.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7860,7 +7859,7 @@ zone "gorillawins.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "goslotty.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gospin.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gossipslotscasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "gossipslots.eu " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "gossipslots.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gossipslotsmobilecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gossipslots.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "gossipslotsonlinecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7917,7 +7916,7 @@ zone "greatcanadian.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "great.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "greatlakesstakes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "greatodds.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "greatonlinecasinoguides.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "greatonlinecasinoguides.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "greatwin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "greece-bettingoffersfinder.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "greece.casinobillions.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8418,7 +8417,7 @@ zone "internettkasinoer.com" { type master; file "/etc/bind/zones/master/blocked
 zone "internettroulette.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "internetvirtualcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "internetzalozi.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "intersportwetten.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "intersportwetten.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "intertops.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "intobet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "intralot.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8594,7 +8593,7 @@ zone "jetbahis211.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "jetbahis213.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jetbahis360.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jetbingo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "jetbull.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "jetbull.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jetbull.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jet.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jetcasino100.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8795,7 +8794,7 @@ zone "k899.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; 
 zone "k8.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "k8.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kabono.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "kaboo.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "kaboo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kahuna777.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kahunacasino7.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kahunacasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8819,7 +8818,7 @@ zone "kaptenklonk.se" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "karamba.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "karIcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "karjalakasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "karlcasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "karlcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kasiinoboonused.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kasiinoboonused.ee" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kasiinoboss.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8921,7 +8920,7 @@ zone "kazandirancasino.biz" { type master; file "/etc/bind/zones/master/blockedd
 zone "kazansana29.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kazinobonuss.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kazinointernete.lt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "kazinokaralis.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "kazinokaralis.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kazinolatvia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kazino-latvija.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kazinolatvija.lv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8942,7 +8941,7 @@ zone "kenostrategy.net" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "kenya-online-casinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kerching.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kerrybet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "keytocasinos.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "keytocasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "khelo24bet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "khelo365.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kickasspoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -8998,7 +8997,7 @@ zone "kk.usa-casino-online.com" { type master; file "/etc/bind/zones/master/bloc
 zone "kladionice.tv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "klobi.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "klubopcja.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "klub-vulkan-stavka.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "klub-vulkan-stavka.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "klyb-wulkan.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kmelot247.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kmelot.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9119,7 +9118,7 @@ zone "lala.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; 
 zone "lalagamez.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "laliga-apostas.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lamejorcasadeapuestas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "lamejorcasadeapuestas.es " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "lamejorcasadeapuestas.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lamejorvillahermosa.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lamesagrande.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "landmarkbingo.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9152,12 +9151,12 @@ zone "latestcasinobonuses.com" { type master; file "/etc/bind/zones/master/block
 zone "latestcasinobonuses.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "latestcasinobonuses.me" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "latestcasinooffers.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "latestnodepositbonus.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "latestnodepositbonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "latestnodeposit.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "latincasinosonline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "latinosbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "latribet.ec    " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "latvijas.casino " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "latribet.ec" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "latvijas.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "latvijaskazino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lavadome.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "laverascommessa.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9166,7 +9165,7 @@ zone "lavivabet33.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "laweekly.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lawrencedrive.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lazybosinternetu.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "lazybuguru.lt " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "lazybuguru.lt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lc2021.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lcbonus.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lcb.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9201,7 +9200,7 @@ zone "legalgamblingandthelaw.com" { type master; file "/etc/bind/zones/master/bl
 zone "legalgamblingaustralia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "legal-gambling.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "legalgamblingireland.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "legal-gambling-usa.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "legal-gambling-usa.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "legal-glucksspiel-schweiz.ch" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "legalonlineblackjack.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "legalonlinecasinos.ph" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9297,7 +9296,7 @@ zone "list.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "listcasinosites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "listedecasinoendirect.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "listedecasinoenligne.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "listofcasinos.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "listofcasinos.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "listofsweepstakescasinos.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "listplayonlinecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lite-1x0062557.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9396,7 +9395,7 @@ zone "livekasinorank.org" { type master; file "/etc/bind/zones/master/blockeddom
 zone "livekasinot.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "livekasinot.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "livekazino.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "livelounge.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "livelounge.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "livepark.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "liveresult.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "liveroulettecasinosonline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9570,7 +9569,7 @@ zone "luckybay.io" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "luckybet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckybet.com.ua" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckybetvip.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "luckybetz.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "luckybetz.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckybirdcasino23.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckybirdcasino68.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckybirdcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9614,7 +9613,7 @@ zone "luckynova.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "luckynuggetcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckynugget-casino.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckynuggetcasino.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "luckynuggetcasino.org " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "luckynuggetcasino.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckyowlclub.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckypantsbingo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "luckypence.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9638,7 +9637,7 @@ zone "lucycasino.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "lucyscasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ludopoli.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lufevab.com.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "lufevab.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "lufevab.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lumibet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lunacasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lunacasino.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9656,7 +9655,7 @@ zone "lv.spinpalace.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "lv.usa-casino-online.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lyckospel.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lyllolivecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "lyracasino.com  " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "lyracasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "m3561271.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "m883d.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "m88.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9810,7 +9809,7 @@ zone "masters-bet.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "mastersportspro.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "matadorbet508.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "matchbets.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "matchbook.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "matchbook.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "matchedbets.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "matchedbettingblog.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "maxbet.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9841,7 +9840,7 @@ zone "mayflowercasino.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "mayotte-bonusesfinder.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "m-bet.co.ke" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "m-bet.co.tz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "mbitcasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "mbitcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mbitcasino.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mbitcasino.jp" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mbs118.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9890,7 +9889,7 @@ zone "megapari.com" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "megapari.games" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "megapari-online.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "megapuesta.app" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "megapuestacasinocolombia.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "megapuestacasinocolombia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "megapuesta-casino.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "megapuestacasino.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "megareel.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9935,7 +9934,7 @@ zone "mejorescasinosenlinea.org" { type master; file "/etc/bind/zones/master/blo
 zone "mejorescasinosespana.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mejorescasinos.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mejorescasinosonline.mx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "mejorescasinosonline.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "mejorescasinosonline.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mejorescasinosonlinepanama.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mejoresjuegosdecasino.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mejoresnuevoscasinosonline.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -9977,7 +9976,7 @@ zone "merkurcasino.com.de" { type master; file "/etc/bind/zones/master/blockeddo
 zone "merkurmagic.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "merkur-win.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "merlincasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "merrybet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "merrybet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mesterbold.dk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "meta-health-akademie.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "metalcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10044,7 +10043,7 @@ zone "milkywayslots.co.uk" { type master; file "/etc/bind/zones/master/blockeddo
 zone "millio88casino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "millionaire.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "millionb.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "millonbet365.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "millonbet365.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "millonbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "milparleys.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mindepcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10169,7 +10168,7 @@ zone "mobilkaszino.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "mobilodds.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mobius.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mobizino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "mobocasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "mobocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "moc2019.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "modabet225.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "modabet230.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10305,7 +10304,7 @@ zone "mrwin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "mrwolfslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mrxbet5.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mrxbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "mrxbet.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "mrxbet.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ms3388.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "msb88va.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ms.playmillion.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10346,7 +10345,7 @@ zone "mybettingsites.co.uk" { type master; file "/etc/bind/zones/master/blockedd
 zone "mybettingsite.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mybitcoinslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mybonusbook.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "mybookie.ag " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "mybookie.ag" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mycasinobonuscodes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mycasinobonuses.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mycasinogames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10491,7 +10490,7 @@ zone "netbet.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "netcasinobonuses.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "netchildrengomobile.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "netellercasino.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "netentcasino.com   " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "netentcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "netentcasinolist.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "netentcasinonodepositbonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "netentcasinoonline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10549,7 +10548,7 @@ zone "nettkasino.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "nettkasinoguiden.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nettspillguide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "neuecasinobonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "neuecasinos24.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "neuecasinos24.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "neuecasinos-at.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "neuecasinos-ch.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "neuecasinos.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10586,9 +10585,9 @@ zone "newcasinorank.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "newcasinoranks.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinoreviews.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinos-ae.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "newcasinos-au.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "newcasinos-au.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinosaustralia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "newcasinos.bg " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "newcasinos.bg" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinos.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinos-ca.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinoscanada.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10629,7 +10628,7 @@ zone "newcasinos-th.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "new-casinos.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinos-vn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcasinos-za.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "newcasinouk.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "newcasinouk.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newcoincasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newfreebetnodeposit.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newfreespinscasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10643,7 +10642,7 @@ zone "newnodepositcasinobonus.co.uk" { type master; file "/etc/bind/zones/master
 zone "newnodepositcasino.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newnodeposits.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newnz.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "newonlinebookies.co.uk " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "newonlinebookies.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "new-online-casino-bg.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newonlinecasino.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "newonline-casino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -10937,7 +10936,7 @@ zone "nya-casinon.online" { type master; file "/etc/bind/zones/master/blockeddom
 zone "nya-casinon.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nyacasinorank.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nya-casino.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "nyacasinosidor.se  " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "nyacasinosidor.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nyakasino.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nyamobilcasinon.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nyanatcasinon.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11134,7 +11133,7 @@ zone "onlinebingo.eu" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "onlinebingo.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinebingosites.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinebingositesguide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinebingounitedkingdom.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinebingounitedkingdom.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlineblackaustralia.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlineblackjackaustralia.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlineblackjack-australia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11199,7 +11198,7 @@ zone "onlinecasinobox.net" { type master; file "/etc/bind/zones/master/blockeddo
 zone "onlinecasinobox.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinobuddy.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasino.bz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasino.ca " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasino.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "online-casino-canada.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinocanada.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinocanada.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11251,8 +11250,8 @@ zone "online-casino.fun" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "onlinecasino-gambler.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinogambling888.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinogambling.me" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasino-games.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinogames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasino-games.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinogameslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinogator.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinogeeks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11449,14 +11448,14 @@ zone "onlinecasinoreportske.com" { type master; file "/etc/bind/zones/master/blo
 zone "onlinecasinoreportskh.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.lt" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.lu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasinoreports.lv " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasinoreports.lv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreportsmd.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.me" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreportsng.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreportsni.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreportsno.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasinoreportspa.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasinoreportspa.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.ph" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoreports.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11487,7 +11486,7 @@ zone "onlinecasinos77cuba.com" { type master; file "/etc/bind/zones/master/block
 zone "onlinecasinos77france.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinos77panama.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinos77pr.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasinos77uk.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasinos77uk.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinos7.best" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinosa.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinosajt.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11603,7 +11602,7 @@ zone "onlinecasinouk.info" { type master; file "/etc/bind/zones/master/blockeddo
 zone "onlinecasinousaguide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoutansvensklicens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoveilig.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasinowebsite.org " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasinowebsite.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinowebsites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinowelt.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinowereld.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11612,14 +11611,14 @@ zone "onlinecasino-x.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "onlinecasinoxl.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinoza.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecasinozen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinecasinoz.ru               " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinecasinoz.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecassino.com.br" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinecricketbetting.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinefreeroll.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinefreespins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinefruitautomaat.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinegambling24.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlinegamblingbible.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlinegamblingbible.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinegambling.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlinegamblingcasino.co.nz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "online-gambling.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11688,7 +11687,7 @@ zone "onlineroulette.net.nz" { type master; file "/etc/bind/zones/master/blocked
 zone "onlineroulette.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlineroulette.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlineroulettespel.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "onlineroulettespin.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "onlineroulettespin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "online-ruleta-argentina.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "online-ruleta.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "onlineruletaslovensko.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11807,10 +11806,10 @@ zone "palmsbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "palmslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "palpitos24.com.ar" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "palpitos.bet.ar" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "palpitos.com.ar " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "palpitos.com.ar" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pal-watc.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pampacasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pampercasino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pampercasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pamperflashcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pampermobilecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pampernodeposit.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11845,7 +11844,7 @@ zone "parierenbelgique.be" { type master; file "/etc/bind/zones/master/blockeddo
 zone "parierenlignesuisse.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "parierensuisse.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pariez-malin.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pari-match-bet.in " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pari-match-bet.in" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "parimatch.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "parimatch.in" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "parimkasiino.ee" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11930,7 +11929,7 @@ zone "pelicancasino.games" { type master; file "/etc/bind/zones/master/blockeddo
 zone "pelicanpoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pelipiste.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pelitjabonukset.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pelotazo1.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pelotazo1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pennbets.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pennlive.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pennstakes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -11960,7 +11959,7 @@ zone "phonebillcasino.co.uk" { type master; file "/etc/bind/zones/master/blocked
 zone "phonemobilecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "phonevegas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "phparena.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "phunque.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "phunque.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "piabet420.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "picantesports.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pickadvisor.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12116,7 +12115,7 @@ zone "playcasino18.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "playcasinoadvisor.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playcasino.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "playcasinogames.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "playcasinogames.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playcasino.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playcasino.palacasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playcasino.ph" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12130,7 +12129,7 @@ zone "playcolorado.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "playcosmo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playcroco.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playdarkhorse.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "playdd.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "playdd.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playdoit.mx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playemlive.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playersbest.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12143,7 +12142,7 @@ zone "playfortuna.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "playfortuna.lat" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "play-fortune.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playfrank.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "playfreeappsreviews.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "playfreeappsreviews.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playgame.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playgrandcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "playgrand.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12308,7 +12307,7 @@ zone "pokeren.net" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "pokeren.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pokerfirma.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pokerforfree.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pokerforums.org " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pokerforums.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pokerforusaplayers.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "poker-fr.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pokerfreerollpasswords.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12440,7 +12439,7 @@ zone "polskiekasynohex.com" { type master; file "/etc/bind/zones/master/blockedd
 zone "polskiekasynos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "polski-sloty.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pontul-zilei.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ponturi-bune.ro " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ponturi-bune.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pooltogether.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "popularbingosites.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pornhubcasino.jp" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12471,7 +12470,7 @@ zone "powerslots.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "powerspins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "powerupcasino1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pppoker.com.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pppoker.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pppoker.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "praisecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prankcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "predictem.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12539,12 +12538,12 @@ zone "pronostico24.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "pronosticobet247.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pronosticobet365.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pronosticobet365.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pronosticobet.com  " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pronosticobet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pronosticobet.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pronosticobets365.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pronostiquer.be" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pronostiquerensuisse.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "prontobet.city " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "prontobet.city" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prontobet.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prontobet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prontobet.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12606,7 +12605,7 @@ zone "qualitycasino.info" { type master; file "/etc/bind/zones/master/blockeddom
 zone "qualitycasinos.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "quarterpoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "quartzcasino.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "quasargaming.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "quasargaming.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "quatrocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "quebec-casinos-online.ca" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "queenbet139.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -12958,7 +12957,7 @@ zone "roulette77.in" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "roulette77ireland.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "roulette77.it" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "roulette77lesotho.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "roulette77.lv " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "roulette77.lv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "roulette77namibia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "roulette77newzealand.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "roulette77.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -13119,7 +13118,7 @@ zone "ruletciler.net" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "rulete77.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "rulete77lithuania.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ruletka77uzbekistan.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ruletoyunculari.co " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ruletoyunculari.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "rulett77.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "rulett77hungary.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "rulett.ee" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -13360,7 +13359,7 @@ zone "site2casino.fr" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "sitedeapostas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sitedeapostasonline.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sitedeapostasonline.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "siteler.biz " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "siteler.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sites-casino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sitesdeapostas.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sites-de-apostas.blog" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -13488,7 +13487,7 @@ zone "slotplanet.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "slotprince.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "slots2018.online" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "slots2play.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "slots33.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "slots33.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "slots33play.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "slots43.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "slots4play.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -13747,7 +13746,7 @@ zone "solcasino456.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "solcasino.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "solgamebr.click" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "soloazar.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "solobonus.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "solobonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "soloboxeo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "solrb88.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "soltzen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -13882,7 +13881,7 @@ zone "spinfever.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "spinfiesta.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "spinfinity.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "spinforplay.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "spingenie.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "spingenie.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "spinhill.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "spinia3.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "spinia5.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -13970,9 +13969,9 @@ zone "sportbonuskode.dk" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "sportbonuskod.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportbook.ag" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportbookcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sportbook.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sportbook.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportclan.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sportcol365.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sportcol365.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportdrycker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportempire.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sporteria.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14075,7 +14074,7 @@ zone "sportwettenanbieter.com" { type master; file "/etc/bind/zones/master/block
 zone "sportwettenanbieter.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwetten-bonus.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwettenbonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sportwettenbonus.de " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sportwettenbonus.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwetten-bonus.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwettenbonusvergleich.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwetten.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14089,10 +14088,10 @@ zone "sportwetten.me" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "sportwettenoesterreich.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwetten-online.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwettenonline.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sportwetten.org " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sportwetten.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwettenpro.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwettenschweiz.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sportwettenschweiz.org " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sportwettenschweiz.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwetten-system.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwettentest.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sportwetten-test.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14123,7 +14122,7 @@ zone "srbija.casinobillions.com" { type master; file "/etc/bind/zones/master/blo
 zone "srcasino.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sslottozalwins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "stadionfans.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "stake7.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "stake7.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "stake88.autos" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "stake-apuestas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "stake-casino.app" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14148,7 +14147,7 @@ zone "stakescasino.win" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "stakes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "stakesites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "stakewin.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "stanleysports.ro " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "stanleysports.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "starbet33.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "starbets.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "starburstslots.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14191,7 +14190,7 @@ zone "stopandstep.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "storspelare.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "storspel.nu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "storspiller.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "storybet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "storybet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "strafe.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "streetslots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "strendsus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14251,7 +14250,7 @@ zone "supacasino.co.uk" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "super6ix.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superace88.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superaposta1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "superbetin256.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "superbetin256.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superbetin653.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superbetin883.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superbet.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14291,7 +14290,7 @@ zone "supergana.com.ve" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "superiorcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superkasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superkasinot.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "superlenny.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "superlenny.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superlinescasino.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "supermatch.com.uy" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "supernova.im" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14529,7 +14528,7 @@ zone "thecasinomagazine.org" { type master; file "/etc/bind/zones/master/blocked
 zone "the-casinos-guide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "thecasinos.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "thecasinowizard.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "thecryptobonus.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "thecryptobonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "thecryptocasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "thecryptostrip.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "thefairplay.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14625,7 +14624,7 @@ zone "tipp24.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "tipp3.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tippat.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tippsecret.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "tippswetten.de " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "tippswetten.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tips4poker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tipsanalistas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tips.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14633,10 +14632,10 @@ zone "tipsdeapuestasenlinea.com" { type master; file "/etc/bind/zones/master/blo
 zone "tips.gg" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tipsport.cz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tipsterworld.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "tipy1x2.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "tipy1x2.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tipzor.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tirage-gagnant.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "titanbet.es " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "titanbet.es" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "titancasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "titanpoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tivitbet.app" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14712,7 +14711,7 @@ zone "topaucasinosonline.com" { type master; file "/etc/bind/zones/master/blocke
 zone "topauscasinos.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topaustraliangambling.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topbet.co.za" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "topbet.eu " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "topbet.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topbets.africa" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topbets.bet" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topbets.co.ke" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14824,7 +14823,7 @@ zone "topratedbettingsites.com" { type master; file "/etc/bind/zones/master/bloc
 zone "topratedbettingwebsites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topratedbingosites.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "toprated.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "topratedcasinoonline.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "topratedcasinoonline.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topratedcasinos.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topratedcasinos.ie" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topratedcasinosites.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14898,7 +14897,7 @@ zone "travstugan.se" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "travtips.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trbet136.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trbet73.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "tr-casino4.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "tr-casino4.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trdcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "treasureislandjackpots.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "treasuremile.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14943,7 +14942,7 @@ zone "trustedgaming.asia" { type master; file "/etc/bind/zones/master/blockeddom
 zone "trustedpokersites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trustjakob.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trustlycasinos.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "tryavalon.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "tryavalon.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trygga-casinon.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tryggarecasinon.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "trylnk.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14956,7 +14955,7 @@ zone "tsars.com" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "ts-casino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ttr19.space" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ttr.casino" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ttrcasino39.su " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ttrcasino39.su" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ttrcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tucasinoonline.pe" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tudosobreojogo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14989,7 +14988,7 @@ zone "turcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "turifa.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turkcasinoiari.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turkce-casino27.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "turkcecasino777.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "turkcecasino777.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turkcecasino778.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turkcecasinositeleri.online" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turkiye.casinobillions.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -14998,7 +14997,7 @@ zone "turk-pokeri-1.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "turk-pokeri-888.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turtlebet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "turvallisetkasinot.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "tuseventos.co " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "tuseventos.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tuskcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tuskcasino.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tuskcasino-za.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15045,7 +15044,7 @@ zone "ukcasinoawards.co.uk" { type master; file "/etc/bind/zones/master/blockedd
 zone "ukcasino-club.co.uk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ukcasinoclub.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ukcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ukcasinoguide.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ukcasinoguide.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ukcasinoreviews.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ukcasinosmobile.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ukcasinosnotgamstop.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15187,7 +15186,7 @@ zone "usgamingreview.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "usonlinecasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "us-online-casinos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "uspoker.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "uspokersites.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "uspokersites.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "uspokersites.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "uspokersites.us" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "usracing.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15291,7 +15290,7 @@ zone "vegas-grand16.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "vegas-grand18.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "vegas-grand19.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "vegas-grand20.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "vegashero.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "vegashero.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "vegasinsider.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "vegaskasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "vegaskasino.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15506,7 +15505,7 @@ zone "webcasinos.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "web-del-amor.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "webet779.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "websotcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "webxcon.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "webxcon.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "weclub88.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "weddenbonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wegamble.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15531,14 +15530,14 @@ zone "wettbasis.com" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "wettbonus360.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wettbonus360.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wett-bonus.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "wett-bonus.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wettbonus.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "wett-bonus.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wettbuero.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wettbuero.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wette.de" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wette.gratis" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wetten.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "wettenerfahrungen.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "wettenerfahrungen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wetten-fussball.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wettenoesterreich.at" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wettformat.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15634,7 +15633,7 @@ zone "winbritish.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "winbrokes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wincaribe.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "win-casino.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "winchile.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "winchile.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "win.city" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wincomparator.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "windetta5123.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15655,7 +15654,7 @@ zone "winmachancecasino-house.com" { type master; file "/etc/bind/zones/master/b
 zone "winmachancecasino-mix.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "winmachancecasino-share.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "winmachancecasino-vip.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "winmasters.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "winmasters.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "winmasters.ro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "winmenot.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "winn247.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15901,7 +15900,7 @@ zone "xslot202.com" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "xspin.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "xsportsbook.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "xtreme-theme.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "xwinnerr.net " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "xwinnerr.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "xwin.pl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "y88thai.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "yaacasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -15996,8 +15995,8 @@ zone "zeton.com.br" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "zeturf.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zeturf.fr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zeusbingo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "zeus-casino.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "zeusplay.com    " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "zeus-casino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "zeusplay.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zigzag777.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zigzagsport1.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zigzagsport6.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -16010,7 +16009,7 @@ zone "zingobingo.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "zinkra.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zipangcasino.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zirka-bet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "zirkabet.com " { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "zirkabet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zizoubet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zlatanbet.se" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "zodiacbet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
