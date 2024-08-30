@@ -1,3 +1,4 @@
+zone "" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "01hosting.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.01hosting.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "0.t.imgbox.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -45,8 +46,8 @@ zone "144chan.id" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "www.144chan.id" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "144chan.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.144chan.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "144chan.pk	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.144chan.pk	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "144chan.pk	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.144chan.pk	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "144chan.tw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.144chan.tw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "14an.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -92,8 +93,8 @@ zone "180chan.info" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "www.180chan.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "18babe.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18babe.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "18babe.tokyo	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.18babe.tokyo	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "18babe.tokyo	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.18babe.tokyo	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "18bestyears25.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18bestyears25.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "18chan.ml" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -159,8 +160,8 @@ zone "2cute2nice.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "www.2cute2nice.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "2gayboys.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.2gayboys.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "2gayboys.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.2gayboys.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "2gayboys.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.2gayboys.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "2getkey.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.2getkey.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "2hottube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -532,8 +533,8 @@ zone "badliar.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "www.badliar.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "badphotograph.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.badphotograph.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "badphotograph.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.badphotograph.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "badphotograph.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.badphotograph.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "badteencam.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.badteencam.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "badteenvids.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -616,8 +617,8 @@ zone "www.bestlinks.gq" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "bestmature.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.bestmature.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "best.nonudeplace.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bestnudismfiles.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.bestnudismfiles.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bestnudismfiles.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.bestnudismfiles.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bestteenporntube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.bestteenporntube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bestvdsteens.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -650,8 +651,8 @@ zone "bighousesex.ru" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "www.bighousesex.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bikinis-hot.nonude.us" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bing.debivol.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "bitchclips.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.bitchclips.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "bitchclips.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.bitchclips.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bizman.4296763.pix-cdn.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "bk4.vidx.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "blackzandu.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -747,8 +748,8 @@ zone "candyfree.pw" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "www.candyfree.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candygirls.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.candygirls.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "CandyPervs.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.CandyPervs.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "CandyPervs.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.CandyPervs.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candypic.bid" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.candypic.bid" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candysonya.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -840,7 +841,7 @@ zone "chatwing.com" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "www.chatwing.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "chegger-models.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.chegger-models.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "cherish.artmodeling-studios.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "cherish.artmodeling-studios.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cherish.artmodelingstudios.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cherryface.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.cherryface.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -852,8 +853,8 @@ zone "chicashot.biz" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "www.chicashot.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "chicaslindas.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.chicaslindas.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "chicaslindas.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.chicaslindas.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "chicaslindas.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.chicaslindas.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "chicazorra.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.chicazorra.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "childrenplay.online" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -941,7 +942,7 @@ zone "coolporngals.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.coolporngals.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "coolsetpics.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.coolsetpics.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "cooltits.sitemore.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "cooltits.sitemore.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "corrupttube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.corrupttube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "cosplay.ipb.su" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1087,8 +1088,8 @@ zone "www.daisyteens.net" { type master; file "/etc/bind/zones/master/blockeddom
 zone "damexxx.beon.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "damtop.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.damtop.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "danielaflorez.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.danielaflorez.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "danielaflorez.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.danielaflorez.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "daphne2.febu.pro" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "daphne2.feburo.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "daphne2.firstmo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1204,11 +1205,11 @@ zone "downloadfiles17.ru" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.downloadfiles17.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dream-girls.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.dream-girls.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "dreamme.galik.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "dreamme.galik.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dream-models.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.dream-models.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "dreampornpictures.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.dreampornpictures.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "dreampornpictures.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.dreampornpictures.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dream.smallpussyarchive.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dream.thumblogger.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "dream-video.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1311,13 +1312,13 @@ zone "etpe.fekolev.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "etvtube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.etvtube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "eugenio-caballo.tumblr.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "euro-fantasy.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.euro-fantasy.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "euro-fantasy.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.euro-fantasy.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "european.teen-mixx.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "evateens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.evateens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "eva.topmodelsart.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "evie.artmodelsgirl.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "evie.artmodelsgirl.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "evie.holymodels.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "evie-paula.sweetdoll.bz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "example.yellowpagerank.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1444,7 +1445,7 @@ zone "fineteenmovies.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.fineteenmovies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fingkis.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.fingkis.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "fingkis.siterose.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "fingkis.siterose.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "finsteta.uno" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.finsteta.uno" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fireban.su" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1482,10 +1483,10 @@ zone "www.fm959.net" { type master; file "/etc/bind/zones/master/blockeddomains.
 zone "fmaiy2.feburo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmaiy.feburo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmalu.feburo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "fmceja2.febu.profmcejawhindex	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "fmceja2.febu.profmcejawhindex	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmceja2.firstmo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmceja2.morepleasures.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "fmceja2.morepleasures.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "fmceja2.morepleasures.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmceja.feburo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmchela.feburo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fmchela.feburo.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1565,8 +1566,8 @@ zone "freehostedpics.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.freehostedpics.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freehostedpics.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.freehostedpics.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "free-incest-stories.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.free-incest-stories.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "free-incest-stories.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.free-incest-stories.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freeleisurexxx.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.freeleisurexxx.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freelinks.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1586,7 +1587,7 @@ zone "free.smackmybitch.com" { type master; file "/etc/bind/zones/master/blocked
 zone "free.stolenhomefilms.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freeteen17.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.freeteen17.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "freeteenmix.tkert.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "freeteenmix.tkert.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freeteenpics.just18.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freeteenpornmovs.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.freeteenpornmovs.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1606,8 +1607,8 @@ zone "www.free-webcam.ru" { type master; file "/etc/bind/zones/master/blockeddom
 zone "free.xdcuties.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freexxxlive.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.freexxxlive.nl" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "freexxxvids.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.freexxxvids.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "freexxxvids.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.freexxxvids.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "free.younglibertines.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "fremolone.theworkpc.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "freshcandies.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2026,8 +2027,8 @@ zone "hotgirlsfresh.ru" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.hotgirlsfresh.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "hotgirlsvids.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hotgirlsvids.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "hot-girl.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hot-girl.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "hot-girl.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hot-girl.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "hot-image.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hot-image.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "hot-loli.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2167,8 +2168,8 @@ zone "ilinks.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "www.ilinks.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "illegalcomics.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.illegalcomics.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "illegal-incest.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.illegal-incest.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "illegal-incest.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.illegal-incest.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ilovenonude.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ilovenonude.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "im0-tub-ru.yandex.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2378,7 +2379,7 @@ zone "immoralhub.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "www.immoralhub.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "incesthardcore.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.incesthardcore.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "incest.porn-keeper.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "incest.porn-keeper.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "incredibleporn.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.incredibleporn.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "indecent-dreams-xxx.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2458,8 +2459,6 @@ zone "jaja.wap-ka.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "janet.topmodelsart.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jaox67mk.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.jaox67mk.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "jaox67mk.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.jaox67mk.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jasmin720.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.jasmin720.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "javichuparadise.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2477,8 +2476,8 @@ zone "jbforum.net" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "www.jbforum.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jbforum.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.jbforum.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "jbhot.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.jbhot.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "jbhot.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.jbhot.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jbimperial.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.jbimperial.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "jbmodels.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2558,7 +2557,7 @@ zone "justtop.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "www.justtop.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "k210.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.k210.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "k6m6btwh56hgwsatubotova2k4zvltm4nblxone5blsh6htu3pugicid.onion.ly	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "k6m6btwh56hgwsatubotova2k4zvltm4nblxone5blsh6htu3pugicid.onion.ly	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kaazlan.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.kaazlan.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "kaibridge.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2893,8 +2892,8 @@ zone "lovely-virgins.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.lovely-virgins.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lovely-young-porn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.lovely-young-porn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "lovemur.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.lovemur.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "lovemur.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.lovemur.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lovepop.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.lovepop.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "loverytools.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2908,8 +2907,8 @@ zone "lovetube.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "www.lovetube.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "loxin.co.tv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lpxmcp.soup.io" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ls16.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.ls16.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ls16.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.ls16.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ls-collection.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ls-collection.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "lscutiesya.temp.swtest.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3065,8 +3064,8 @@ zone "minhateca.com.br" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "minicut.tk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.minicut.tk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mini.free-teen-pussy.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "minigirls.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.minigirls.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "minigirls.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.minigirls.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "minimods.wang" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.minimods.wang" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "minionzz.space" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3165,8 +3164,8 @@ zone "moviegalls1.tinseks.com" { type master; file "/etc/bind/zones/master/block
 zone "moviegalls3.teenburg.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "moviepornshop.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.moviepornshop.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "moviepornshop.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.moviepornshop.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "moviepornshop.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.moviepornshop.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mpixxxs.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.mpixxxs.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mppremium.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3175,8 +3174,8 @@ zone "mpxgirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "www.mpxgirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mrvine.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.mrvine.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "mrvine.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.mrvine.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "mrvine.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.mrvine.co	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mrvineforum.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.mrvineforum.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "mrvine.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3570,8 +3569,8 @@ zone "nudeteenalbums.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.nudeteenalbums.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nudeteenporntube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nudeteenporntube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "nude-teens.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.nude-teens.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "nude-teens.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.nude-teens.ws	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nude-virgin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nude-virgin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "nudfam.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3646,19 +3645,19 @@ zone "oheria.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db";
 zone "www.oheria.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ohhentai.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ohhentai.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ohi-ahi.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.ohi-ahi.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ohi-ahi.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.ohi-ahi.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ohlalafilms.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ohlalafilms.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ohlalavideo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ohlalavideo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ohlovetub.gaoh.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ohlovetub.gaoh.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ohmygirl.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ohmygirl.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ohporntube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ohporntube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ohporntube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.ohporntube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ohporntube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.ohporntube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ohteenporn.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ohteenporn.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "oisa.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -3863,7 +3862,7 @@ zone "pinkdoll.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.d
 zone "www.pinkdoll.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pinkgreys.tk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.pinkgreys.tk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "pinkgreys.tkzzz.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "pinkgreys.tkzzz.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pinklike.ooo" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.pinklike.ooo" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pinkloli.fun" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4060,8 +4059,8 @@ zone "preteenstop.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "www.preteenstop.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "preteen.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.preteen.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "preteen.xyz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.preteen.xyz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "preteen.xyz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.preteen.xyz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prettyamateursgirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.prettyamateursgirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prettymix.ml" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4104,8 +4103,8 @@ zone "pure-femjoy.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "www.pure-femjoy.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "purenudism.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.purenudism.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "purenudism.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.purenudism.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "purenudism.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.purenudism.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pureyoung.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.pureyoung.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pussycrave.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4121,8 +4120,8 @@ zone "pussyteens.org" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "www.pussyteens.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "putaespana.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.putaespana.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "putaespana.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.putaespana.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "putaespana.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.putaespana.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pxteen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.pxteen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "pyramida.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4205,7 +4204,7 @@ zone "roxana2.firstmo.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "roxana.firstmo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "rumporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.rumporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "russass.mltra.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "russass.mltra.php	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "rus-sex-girls.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.rus-sex-girls.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "russ-girl.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4368,8 +4367,8 @@ zone "sexyteentube.biz" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.sexyteentube.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sexy-tube-site.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexy-tube-site.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sexy-tube-site.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.sexy-tube-site.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sexy-tube-site.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.sexy-tube-site.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "s-faraon.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.s-faraon.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sgirls.hotdolls.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4423,16 +4422,16 @@ zone "sinful-teens.ru" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "www.sinful-teens.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "siperxgirls.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.siperxgirls.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg10thumb18409.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg6thumb11416.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg6thumb11644.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg8thumb15784.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg8thumb16094.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg10thumb18409.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg6thumb11416.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg6thumb11644.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg8thumb15784.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg8thumb16094.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sites.adult-empire.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sitesnewslol.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sitesnewslol.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sites.show-star.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "sites.show-star.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "sites.show-star.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sites.show-star.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sixgaco.win" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sixgaco.win" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4575,8 +4574,8 @@ zone "superpornovoyeur.com" { type master; file "/etc/bind/zones/master/blockedd
 zone "www.superpornovoyeur.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "superteenz.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.superteenz.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "superteenz.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.superteenz.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "superteenz.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.superteenz.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "supix.shop" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.supix.shop" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "sv18.mypornsnap.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4902,8 +4901,8 @@ zone "teensinasia.com" { type master; file "/etc/bind/zones/master/blockeddomain
 zone "www.teensinasia.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "teensinporno.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teensinporno.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "teens-kitten.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.teens-kitten.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "teens-kitten.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.teens-kitten.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "teenslutsporn.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teenslutsporn.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "teensnaturalway.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5064,8 +5063,8 @@ zone "tightvaginas.xyz" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.tightvaginas.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tikata.icu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.tikata.icu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "tikata.icu	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.tikata.icu	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "tikata.icu	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.tikata.icu	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "timmyoo.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.timmyoo.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tiniandangle.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5170,15 +5169,15 @@ zone "top.pink-portal.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "topporngirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.topporngirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "top.schoolgirls-list.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "topsexforum.ru	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.topsexforum.ru	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "topsexforum.ru	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.topsexforum.ru	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topsite.bid" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.topsite.bid" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "top.sweetnngirls.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topteens.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.topteens.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "topteenvids.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.topteenvids.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "topteenvids.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.topteenvids.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "top.tinylittlegf.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "top.top-dolls.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "topzone.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5219,8 +5218,8 @@ zone "ts14.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; 
 zone "www.ts14.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "ts15.icu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.ts15.icu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "ttlmodels.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.ttlmodels.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "ttlmodels.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.ttlmodels.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tube1820.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.tube1820.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tube7000.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5247,8 +5246,8 @@ zone "tv.fakings.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "tweengirls.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.tweengirls.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "twinksgayhotters.tumblr.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "twinktube.pro	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.twinktube.pro	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "twinktube.pro	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.twinktube.pro	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "tyminska.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.tyminska.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "uface.56img.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5478,7 +5477,7 @@ zone "welcome.sashablonde.com" { type master; file "/etc/bind/zones/master/block
 zone "welcome.sashafucksdasha.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "welcome.virginoff.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "welcome.youngporn.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "welcome.youngporn.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "welcome.youngporn.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wellwaygo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.wellwaygo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "werynicefun.tk" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5489,8 +5488,8 @@ zone "wetblog.to" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "www.wetblog.to" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "wetfem.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.wetfem.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "wetteenpussy.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.wetteenpussy.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "wetteenpussy.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.wetteenpussy.biz	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "whatismy.atspace.name" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "whiteberry.000a.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "whiteteensblackcocks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5531,7 +5530,7 @@ zone "www.188movie.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.18bestyears25.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18eighteen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18freshteenies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.18freshteenies.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.18freshteenies.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18fuck.thumblogger.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18homevideo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18kitties.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5543,7 +5542,7 @@ zone "www.18sextime.com" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "www.18sexyteengirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18teenvids.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18xgirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.18xgirls.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.18xgirls.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.18youngporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.1classtube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.1freetube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5585,7 +5584,7 @@ zone "www.alcoporn.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.alenamodel.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.aleseamodel.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.alexaporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.allboysnude.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.allboysnude.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.alldirtyteens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.all-no-nude.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.allteenrevpass.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5658,7 +5657,7 @@ zone "www.bookporntube.com" { type master; file "/etc/bind/zones/master/blockedd
 zone "www.boyaviator.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.boycall.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.boys-hardcore-pics.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.boys-love.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.boys-love.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.boysmaster.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.boysolution.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.brandigirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5795,7 +5794,7 @@ zone "www.faceimagen.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.falula.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.falusbuze.fun" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.family-tube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.family-tube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.family-tube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.fanaticinema.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.fantasy8.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.filemirrors.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5884,7 +5883,7 @@ zone "www.gonzoxxxmovies.com" { type master; file "/etc/bind/zones/master/blocke
 zone "www.good-models.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.goodtalen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.goodtalens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.goteentube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.goteentube.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.goteenygo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.goto.nu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.grandchan.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5899,20 +5898,20 @@ zone "www.hardindiansex.com" { type master; file "/etc/bind/zones/master/blocked
 zone "www.hardporkys.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hardsextube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hardyoungsex.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb11.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb14.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb16.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb17.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb19.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb21.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb22.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb23.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb24.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb32.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb35.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb36.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb46.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hdcp.tkthumbsthumb7.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb11.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb14.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb16.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb17.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb19.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb21.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb22.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb23.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb24.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb32.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb35.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb36.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb46.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hdcp.tkthumbsthumb7.jpg	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hdvtubeporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hegre-art.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.heidymodel.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -5945,7 +5944,7 @@ zone "www.hostones.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.hotgati.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hotgaytwink.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hotgirlsvids.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.hotgirlsvids.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.hotgirlsvids.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hothat.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hothomemadetube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.hot-home-movies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6045,7 +6044,7 @@ zone "www.lionporn.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.little-cutie.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.little-cuties.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.littlegirls.club" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.littlegirls.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.littlegirls.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.little-girls.xyz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.littleliana.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.littlelupe.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6159,7 +6158,7 @@ zone "www.newestpornlinks.com" { type master; file "/etc/bind/zones/master/block
 zone "www.newnnmod.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newnubiles.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.new-nudism.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.new-nudism.netshopdeDiese-Woche-NEU-16	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.new-nudism.netshopdeDiese-Woche-NEU-16	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newsextv.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newstar-erin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newteenpics.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6171,7 +6170,7 @@ zone "www.nnhomepics.bz" { type master; file "/etc/bind/zones/master/blockeddoma
 zone "www.nn-lo-la.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nnmodset.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nnmods.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.nn-show-pics.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.nn-show-pics.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nn-stars.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nn-top.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nofec.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6197,7 +6196,7 @@ zone "www.nsporn.com" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "www.nubileones.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nubiles.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nudegati.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.n-udes.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.n-udes.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nudeteenphoto.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nudeteens.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.nudisteens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6217,7 +6216,7 @@ zone "www.oneclickfiles.com" { type master; file "/etc/bind/zones/master/blocked
 zone "www.onlyamatuer.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.onlycuties.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.onlyflashporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.onlyteenstgp.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.onlyteenstgp.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.onlytorrents.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.orgasm.solutions" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.our18teens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6280,11 +6279,11 @@ zone "www.pornzeus.com" { type master; file "/etc/bind/zones/master/blockeddomai
 zone "www.positivecuties.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.prebabe.asia" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.prelo-nn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.premiumchans.org	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.premiumchans.org	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.preteen-goddesses.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.preteenmodels.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.preteenmodels.eu" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.preteenmodels.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.preteenmodels.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.preteennonude.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.preteennude.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.prettyabeauty.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6350,10 +6349,10 @@ zone "www.seventeenvideo.com" { type master; file "/etc/bind/zones/master/blocke
 zone "www.sexabulous.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexangels.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexo89.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.sexocean.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.sexocean.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexofvideo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexogratis.com.mx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.sexoguarro.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.sexoguarro.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexonclips.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexonlytube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.sexoprohibido.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6389,7 +6388,7 @@ zone "www.smoothteentube.com" { type master; file "/etc/bind/zones/master/blocke
 zone "www.smutty-pages.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.solidfiles.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.solonpics.gdn" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.solopeliculas.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.solopeliculas.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.somantapic.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.somosjovencitas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.somoslesbianas.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6478,7 +6477,7 @@ zone "www.teens-list.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.teensnow.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teenspixxx.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teensporn.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.teensporn.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.teensporn.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teensroyal.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teenssex.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.teenstube.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6519,7 +6518,7 @@ zone "www.toomadporn.pro" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.toon-party.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.top4cracks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.top-rank-preteen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.traffic-trade115.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.traffic-trade115.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.tram-pararam.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.trickybitches.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.triton-sector.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6598,7 +6597,7 @@ zone "www.wastedamateurs.com" { type master; file "/etc/bind/zones/master/blocke
 zone "www.watchmygf.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.watchmygf.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.webcamporn.xxx" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.webcamtalk.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.webcamtalk.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.webcamteenvideo.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.webcoolvideos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.webmodels.tv" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6618,7 +6617,7 @@ zone "www.witchcartoons.com" { type master; file "/etc/bind/zones/master/blocked
 zone "www.wonteens.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.wooowteen.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.worldangels.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.world-beauty.org	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.world-beauty.org	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.wowmodels.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xgeekstube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xgirls.site" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6630,7 +6629,7 @@ zone "www.xnxx.es" { type master; file "/etc/bind/zones/master/blockeddomains.db
 zone "www.xoriental.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xsharebox.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xteenboy.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.xteensex.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.xteensex.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xtravids.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xtubenow.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xvideos.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6641,7 +6640,7 @@ zone "www.xxxporntoon.com" { type master; file "/etc/bind/zones/master/blockeddo
 zone "www.xxxprivates.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xxxteenietube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xxxteensexxx.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.xxxyoungmovies.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.xxxyoungmovies.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xyoung.info" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.yeahteentube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.yed19up.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -6914,8 +6913,8 @@ zone "xxxups.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"
 zone "www.xxxups.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "xxxuptube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xxxuptube.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "xxxusb.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.xxxusb.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "xxxusb.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.xxxusb.site	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "xxxvideo9.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.xxxvideo9.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "xxxvideodreamsxxx.top" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7013,8 +7012,8 @@ zone "youngfamilysex.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "www.youngfamilysex.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "youngfor.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.youngfor.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "youngfor.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.youngfor.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "youngfor.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.youngfor.net	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "young-fuck-ladies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.young-fuck-ladies.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "youngfucktubes.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -7025,8 +7024,8 @@ zone "younggirlmodels.org" { type master; file "/etc/bind/zones/master/blockeddo
 zone "www.younggirlmodels.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "younggirlnudists.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.younggirlnudists.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "younggirls.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.younggirls.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "younggirls.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.younggirls.pw	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "younghardporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.younghardporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "younginporn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
