@@ -1,4 +1,3 @@
-zone "" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "007soccerpicks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.007soccerpicks.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "01casinos.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
