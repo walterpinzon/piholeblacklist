@@ -447,7 +447,7 @@ zone "candydoll1.tiny-jewels.com" { type master; file "/etc/bind/zones/master/bl
 zone "candydollchan.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candyfree.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candygirls.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "CandyPervs.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "candypervs.com	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candypic.bid" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candysonya.pw" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "candywet.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -1540,7 +1540,6 @@ zone "insaneday.site" { type master; file "/etc/bind/zones/master/blockeddomains
 zone "inteengirls.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "io0061i1li1l1i00oobb6bo0.animalsex.cc" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "io1.imgoutlet.co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "io1.Imgoutlet.Co" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "io1.imgoutlet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "io3.imgoutlet.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "i.ohfreesex.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -2470,7 +2469,6 @@ zone "powerfortennis.com" { type master; file "/etc/bind/zones/master/blockeddom
 zone "pr3teenya2.temp.swtest.ru" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prebabe.in" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "prelo-nn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "Prelo-nn.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "premiumgirls.org" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "premiumhentai.biz" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "premiumvip.gr" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
@@ -4005,7 +4003,7 @@ zone "www.newestpornlinks.com" { type master; file "/etc/bind/zones/master/block
 zone "www.newnnmod.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newnubiles.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.new-nudism.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
-zone "www.new-nudism.netshopdeDiese-Woche-NEU-16	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
+zone "www.new-nudism.netshopdediese-woche-neu-16	" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newsextv.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newstar-erin.com" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
 zone "www.newteenpics.net" { type master; file "/etc/bind/zones/master/blockeddomains.db"; };
